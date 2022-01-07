@@ -1,7 +1,7 @@
 --- 
 title: "Living Together: Hansalim"
 author: "Jonathan Dolley"
-date: "2022-01-05"
+date: "2022-01-07"
 site: bookdown::bookdown_site
 documentclass: krantz #refers to krantz.cls file in root directory copied from Robinlovelace/geocompr
 monofont: "Source Code Pro"
@@ -31,23 +31,28 @@ This book is a work in progress that I plan to publish "in real time" so to spea
 
 It is already a collaborative project with co-authors at the Mosim and Salim Research Institute and I hope that this collaboration can extend to it's readers as well, through the discussions on social media and also through suggested edits via GitHub. So we welcome any input from interested readers who share a passion for the topic of organic and regenerative farming and the cooperative and solidarity economy.
 
-If you want to get involved but you have never heard of GitHub, I have written a [brief explanation](/github.html) in the appendix in this book that will hopefully help. 
+If you want to get involved but you have never heard of GitHub, I have written a [brief explanation](/github.html) in the appendix in this book that will hopefully help.
+
+The best place to start though, would be to fill in this [google form](https://forms.gle/aByS7RYM2kUFNVYi8) to introduce yourself, provide comments and suggest questions for investigation.
 
 ## How to contribute {-}
 
 The book is written using [bookdown](https://bookdown.org/yihui/bookdown/) which builds the online book from R Markdown files hosted on GitHub. The online book is then hosted as a website at [book.livingtogether.xyz](https://book.livingtogether.xyz) using [Netlify](https://www.netlify.com/). The book can be edited online directly in GitHub. If do not already have a GitHub account, sign up for one first and then click on the "Edit this page" icon in the right panel of the book website. This will open the editable version of the R Markdown file that generated the page you were viewing. When you submit a change, write a brief note describing the change and then I will be able to review it and decide whether to include it.
 
-To make more general comments, suggest additional chapters or sections or to suggest new research questions you can use the "Open an issue" link in the right hand panel.
+To make more general comments, suggest additional chapters or sections or to suggest new research questions you can use the links in the right hand panel:
+
+- "Open an issue" takes you to github issues
+- "Introduce yourself & suggest questions." opens a google form.
 
 Maintainers and contributors must follow this repository's CODE OF CONDUCT.
 
 ## The proposed structure of the book {-}
 
-Working title:
+### Working title {-}
 
 > Living Together: Hansalim as a model for solidarity pathways towards sustainable food systems.
 
-Chapter plan:
+### Chapter plan {-}
 
 > 1.	Background:
 >       -	Brief history of the ecological alternative movement in South Korea and Hansalim's role and development.
