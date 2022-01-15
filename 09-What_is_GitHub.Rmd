@@ -60,7 +60,7 @@ Anyone with an interest in the topics and the questions that I am investigating 
 
 These interested people could then comment on the drafts and chapters as they progress, suggest additional sections, cuts or changes, and request clarifications. Some people could even join as co-authors to write their own contributions to add to the content or address their own areas of expertise as they relate to the subject of the book.
 
-## What if have never used GitHub before? Can I still contribute? {-}
+## What if I have never used GitHub before? Can I still contribute? {-}
 
 Even if you have never used GitHub before and you don't want to go through the process of learning how to use git or install anything on your computer, it doesn't matter. All you need to do is make an account on the GitHub website and you can suggest edits directly in the files hosted on GitHub.
 
